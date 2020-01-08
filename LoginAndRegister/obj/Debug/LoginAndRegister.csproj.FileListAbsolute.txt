@@ -1,0 +1,6 @@
+C:\Users\etu\Documents\SharpDevelop Projects\LoginAndRegister\LoginAndRegister\obj\Debug\LoginAndRegister.csprojResolveAssemblyReference.cache
+C:\Users\etu\Documents\SharpDevelop Projects\LoginAndRegister\LoginAndRegister\bin\Debug\LoginAndRegister.exe.config
+C:\Users\etu\Documents\SharpDevelop Projects\LoginAndRegister\LoginAndRegister\bin\Debug\LoginAndRegister.exe
+C:\Users\etu\Documents\SharpDevelop Projects\LoginAndRegister\LoginAndRegister\bin\Debug\LoginAndRegister.pdb
+C:\Users\etu\Documents\SharpDevelop Projects\LoginAndRegister\LoginAndRegister\obj\Debug\LoginAndRegister.exe
+C:\Users\etu\Documents\SharpDevelop Projects\LoginAndRegister\LoginAndRegister\obj\Debug\LoginAndRegister.pdb
